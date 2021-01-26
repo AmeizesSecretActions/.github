@@ -1,0 +1,5 @@
+{
+    "name": "Base workflow",
+    "description": "Base CI workflow template.",
+    "iconName": "example-icon"
+}
